@@ -1,20 +1,7 @@
-{
-  "index": {
-    "title": "Home",
-    "type": "page",
-  "Bots": {
-    "title": "Bots",
-    "type": "menu",
-    "items": {
-      "Swift.": {
-        "title": "Swift.",
-        "href": "/swift"
-      },
-      "Zono": {
-        "title": "Zono",
-        "href": "Zono"
-      }
-    }
+
+  {
+    "index": "Homepage",
+    "swift": "Swift.",
+    "zono": "Zono"
   }
-  }
-}
+
