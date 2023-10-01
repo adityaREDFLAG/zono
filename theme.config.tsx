@@ -14,6 +14,13 @@ const config: DocsThemeConfig = {
     text: 'Zono Website',
   },
 }
-export default config
-
-
+export default {
+  banner: {
+    key: 'Inivte Swift.',
+    text: (
+      <a href="https://zono.bloxy.pro/swift" target="_blank">
+        🎉 Invite Swift. →
+      </a>
+    )
+  }
+}
