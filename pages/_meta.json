@@ -1,14 +1,5 @@
 {
-  "index": {
-    "title": "Home",
-    "type": "page"
-  },
-  "swift": {
-    "title": "Swift.",
-    "type": "page"
-  },
-  "zono": {
-    "title": "Zono",
-    "type": "page"
-  }
+  "index": "Home",
+  "swift": "Swift.",
+  "zono": "Zono"
 }
