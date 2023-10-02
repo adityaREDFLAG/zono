@@ -12,11 +12,6 @@ const config: DocsThemeConfig = {
   docsRepositoryBase: 'https://github.com/adityaredflag/zono',
   footer: {
     text: 'Zono Website',
-  },
+    },
 }
-export default {
-    navigation: {
-      prev: true,
-      next: true
-    }
-  }
+export default config
